@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Regex Tester</title>
+    <style>
+
+    * {
+        box-sizing: border-box;
+    }
+
+    body {
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: #040720;
+        color: gainsboro;
+        padding: 30px;
+    }
+
+    h1 {
+        text-align: center;
+    }
+
+    form {
+        max-width: 700px;
+        margin: auto;
+        background-color: black;
+        padding: 25px;
+        border-radius: 10px;
+    }
+
+    .field {
+        margin-bottom: 20px;
+    }
+
+    label {
+        display: block;
+        margin-bottom: 6px;
+        font-weight: bold;
+        color: white;
+    }
+
+    textarea,
+    input[type="text"] {
+        width: 100%;
+        height: 55px;
+        padding: 10px;
+        border-radius: 6px;
+        border: 1px solid slategray;
+        background-color: black;
+        color: white;
+        font-size: 15px;
+        resize: none;
+    }
+
+    textarea {
+        height: 120px;
+    }
+
+    textarea:focus,
+    input:focus {
+        outline: none;
+        border-color: lime;
+    }
+
+    button {
+        width: 100%;
+        padding: 12px;
+        background-color: lime;
+        border: none;
+        font-size: 16px;
+        font-weight: bold;
+        border-radius: 6px;
+        cursor: pointer;
+        color: black;
+    }
+
+    .match {
+        color: limegreen;
+    }
+
+    .error {
+        color: red;
+    }
+
+    .result-box {
+        max-width: 700px;
+        margin: 20px auto;
+        background-color: black;
+        padding: 20px;
+        border-radius: 10px;
+    }
+
+    .no-match {
+        color: orange;
+    }
+</style>
+
+
+</head>
+<body>
+
+    <header>
+	
+	<div><h1>Mini Regex Matcher</h1></div>
+
+    </header>
+    <hr>
+    <form method="POST">
+
+    <div class="field">
+        <label>Test String</label>
+        <textarea name="test_string" required></textarea>
+    </div>
+
+    <div class="field">
+        <label>Regular Expression</label>
+        <input type="text" name="regex" required>
+    </div>
+
+    <button type="submit">Submit</button>
+
+</form>
+
+{% if matches %}
+<div class="result-box">
+    <h2>Matches Found:</h2>
+    <ul>
+        {% for match in matches %}
+            <li class="match">{{ match }}</li>
+        {% endfor %}
+    </ul>
+</div>
+{% endif %}
+
+{% if no_match %}
+<div class="result-box">
+    <p style="color: orange;">No matches found.</p>
+</div>
+{% endif %}
+
+{% if error %}
+<div class="result-box">
+    <p class="error">Regex Error: {{ error }}</p>
+</div>
+{% endif %}
+
+</body>
+</html>
