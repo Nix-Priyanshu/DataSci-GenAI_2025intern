@@ -105,10 +105,9 @@ This project simulates a **production-grade GenAI chatbot**, implementing:
 ---
 
 ## 👩‍💻 Author
-
-**Your Name**
 GenAI & Data Science Enthusiast
 
 ---
 
 ⭐ If you like this project, consider giving it a star!
+
