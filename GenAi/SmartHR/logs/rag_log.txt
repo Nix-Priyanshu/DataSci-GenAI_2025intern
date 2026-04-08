@@ -1,0 +1,121 @@
+User: hi there 
+Bot: **Welcome!**
+
+If you have any questions or need assistance regarding our company policies, please feel free to ask. Here are some key policies for your reference:
+
+### Leave Policy
+- Employees are entitled to 20 days of paid leave annually.
+- Leave must be applied at least 3 days in advance unless it is an emergency.
+- Sick leave requires a medical certificate if it exceeds 2 consecutive days.
+- Unused leave can be carried forward up to a maximum of 10 days.
+
+### Work from Home Policy
+- Employees are allowed to work from home up to 2 days per week.
+- Manager approval is required for additional remote work days.
+- Employees must be available during standard working hours (9 AM to 6 PM).
+
+### Working Hours
+- Standard working hours are 9:00 AM to 6:00 PM, Monday to Friday.
+- Employees are expected to log a minimum of 8 hours per day.
+- Late login beyond 10:00 AM must be approved by the reporting manager.
+
+### Code of Conduct
+- Employees must maintain professional behavior at all times.
+- Harassment, discrimination, or misconduct will not be tolerated.
+- Violation of company policies may result in disciplinary action.
+
+### Performance Evaluation
+- Performance reviews are conducted twice a year.
+- Employees are evaluated based on performance, teamwork, and communication.
+
+If you have any specific questions or need further information, please let me know!
+----------------------------------------
+User: tell me more on performance evaluation
+Bot: **Performance Evaluation**
+
+- **Frequency**: Performance reviews are conducted twice a year.
+- **Evaluation Criteria**: Employees are evaluated based on:
+  - Performance
+  - Teamwork
+  - Communication
+- **Outcomes**:
+  - Bonuses and promotions are based on performance ratings.
+
+If you have any specific questions or need further details about the performance evaluation process, please let me know!
+----------------------------------------
+User: do i get upgrade in it 
+Bot: **Upgrades in IT Equipment**
+
+- **Information on IT Upgrades**: The provided context does not contain specific information about IT equipment upgrades.
+
+If you have any questions or need further assistance regarding IT equipment or other policies, please let me know!
+----------------------------------------
+User: hi there !! , would you help me 
+Bot: Certainly! Here are some common HR-related inquiries and their corresponding answers based on the provided context:
+
+### Common HR Inquiries and Answers
+
+#### 1. **Leave Policy**
+- **Entitlement:** Employees are entitled to 20 days of paid leave annually.
+- **Application:** Leave must be applied at least 3 days in advance unless it is an emergency.
+- **Sick Leave:** Sick leave requires a medical certificate if it exceeds 2 consecutive days.
+- **Carry Forward:** Unused leave can be carried forward up to a maximum of 10 days.
+
+#### 2. **Work from Home Policy**
+- **Remote Work Days:** Employees are allowed to work from home up to 2 days per week.
+- **Manager Approval:** Manager approval is required for additional remote work days.
+- **Availability:** Employees must be available during standard working hours (9 AM to 6 PM).
+
+#### 3. **Working Hours**
+- **Standard Hours:** Standard working hours are 9:00 AM to 6:00 PM, Monday to Friday.
+- **Daily Hours:** Employees are expected to log a minimum of 8 hours per day.
+- **Late Login:** Late login beyond 10:00 AM must be approved by the reporting manager.
+
+#### 4. **Code of Conduct**
+- **Professional Behavior:** Employees must maintain professional behavior at all times.
+- **Zero Tolerance:** Harassment, discrimination, or misconduct will not be tolerated.
+- **Disciplinary Action:** Violation of company policies may result in disciplinary action.
+
+#### 5. **Performance Evaluation**
+- **Frequency:** Performance reviews are conducted twice a year.
+- **Evaluation Criteria:** Employees are evaluated based on performance, teamwork, and communication.
+- **Incentives:** Bonuses and promotions are based on performance ratings.
+
+#### 6. **Data Security Policy**
+- **Confidentiality:** Employees must not share confidential company data with unauthorized individuals.
+- **Data Storage:** All work-related data must be stored securely in company-approved systems.
+- **Personal Devices:** Use of personal devices for sensitive work is discouraged.
+
+#### 7. **IT Usage Policy**
+- **Professional Use:** Company systems are to be used strictly for professional purposes.
+- **Software Download:** Downloading unauthorized software is prohibited.
+- **Internet Monitoring:** All internet usage may be monitored for security purposes.
+
+#### 8. **Grievance Handling**
+- **Reporting:** Employees can report concerns to HR confidentially.
+- **Response Time:** All grievances will be addressed within 7 working days.
+- **Protection:** No retaliation will be taken against employees raising concerns.
+
+If you have a specific question or need further assistance, please let me know!
+----------------------------------------
+User: Explain me Leave policy and Bonus incremental scheme
+Bot: **Leave Policy**
+
+- Employees are entitled to 20 days of paid leave annually.
+- Leave must be applied at least 3 days in advance unless it is an emergency.
+- Sick leave requires a medical certificate if it exceeds 2 consecutive days.
+- Unused leave can be carried forward up to a maximum of 10 days.
+
+**Bonus Incremental Scheme**
+
+- I do not have that information.
+----------------------------------------
+User: pls explain me about bonus
+Bot: Certainly! Here is the information regarding bonuses based on the provided context:
+
+- **Bonuses and Promotions:**
+  - **Performance Ratings:** Bonuses and promotions are based on performance ratings.
+  - **Performance Reviews:** Performance reviews are conducted twice a year, and employees are evaluated based on performance, teamwork, and communication.
+
+If you have any further questions or need additional details, please let me know.
+----------------------------------------
