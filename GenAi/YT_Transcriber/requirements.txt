@@ -1,4 +1,0 @@
-streamlit
-youtube-transcript-api
-google-generativeai
-fpdf
